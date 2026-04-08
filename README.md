@@ -1,6 +1,6 @@
 # Chat-Application
 
-# Chat Application
+
 
 A real-time web-based Chat Application built with Java, MySQL, and HTML/CSS/JavaScript.
 
